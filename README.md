@@ -1,10 +1,16 @@
-# CS50 Python Solutions
 
-This is my solutions for all the problem sets that are in edX website
+![Logo](cs50_image.png)
 
-### `URL`: https://cs50.harvard.edu/python/2022/
+# CS50 Python Problem sets
 
-## Weeks Topics
+My solutions for all the problem sets that are on edX website
+
+## Link
+```
+https://cs50.harvard.edu/python/2022/
+```
+
+## Weeks' Topics
 
 - `Functions, Variables`
 - `Conditionals`
