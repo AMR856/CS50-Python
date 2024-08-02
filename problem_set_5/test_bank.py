@@ -1,4 +1,5 @@
-#!/usr/bin/python3from bank_main import value # type: ignore
+#!/usr/bin/python3
+from bank_main import value # type: ignore'
 import pytest
 
 def test_normal():
